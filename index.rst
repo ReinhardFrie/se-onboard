@@ -42,3 +42,9 @@
 The ever increasing Nutanix portfolio may seem overwhelming to a new member of the team so building up their knowledge starting at the core, the building block of Nutanix, will provide a stable point on which other functionality and features can be expanded upon.
 
 Use the topics in this lab to assist newly on-boarded SEs in bringing them up to speed with the Nutanix architecture. It is recommended that an SE of an Architect role, or equivalent in experience, delivers the *Nutanix 101*, *Sizing* and *Data Gathering* content. The *Finding Information* section is mainly for general guidance and reference.
+
+
+
+
+
+[For updates and feedback, send to darren@nutanix.com]

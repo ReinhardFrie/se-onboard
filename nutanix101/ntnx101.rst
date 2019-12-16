@@ -2,6 +2,14 @@ Nutanix Basics
 ==============
 Topics to be discussed:
 
+NX Node Naming Convention
++++++++++++++++++++++++++
+*Objective: familiarity with native NX*
+
+.. image:: node-naming.png
+   :width: 700
+   :alt: Nutanix model breakdown
+
 Cluster & Node architecture
 +++++++++++++++++++++++++++
 *Objective: prepare audience to be able to draw up our architecture*
@@ -100,14 +108,15 @@ Data Protection
 
 -  NearSync and its pre-requisites
 
-   -  7% SSD overhead
+   -  SSD overhead, minimum SSD size and quantity depending on storage requirement plus CPU cores...
 
-   -  A minimum of 1.2TB SSDs
+   -  Review this document for the latest  `PD Documentation`_.
 
-   -  40TB maximum node size
+   .. _PD Documentation: https://docs.google.com/document/d/1A4Z4m-5_EbmOGx2eX0J-5MvoK9mUIaQrpRY_k-w6s8c/edit
 
 -  CloudConnect
 
+   - AWS S3 & Azure Blobs (these require compute resource for the CVM)
 
 
 Networking

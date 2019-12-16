@@ -12,7 +12,7 @@ Explore the customer's environment with these sample questions
 
 -  Data gathering
 
-   -  Application(s) hosted the on virtualised estate
+   -  Application(s) hosted on the virtualised estate
 
    -  Current hardware deployment(s)
 
@@ -38,6 +38,8 @@ Explore the customer's environment with these sample questions
 
   - VMware environments can be scanned using a free tool called RVTools, this outputs all details of the VMs to a .CSV file which can be imported directly into Nutanix Sizer
 
+  - Nutanix Collector, available in The Support Portal can review and export data to a .CSV file. Review the User Guide for the tool's capabilities
+
   - Dell's DPACK can scan and capture physical and virtual workloads over a period time providing utilisation metrics, better for environments where peak workload processing periods need to be taken into consideration
 
 
@@ -56,6 +58,7 @@ Nutanix Sizer walkthrough
 
    -  SSD balance
 
+   -  What % values do the CPU and RAM sit at? Remove a node from the quantity, what now? Anything over 80%?
 
 -  Review the graphs and discuss the outputs and reports
 

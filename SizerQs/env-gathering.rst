@@ -18,7 +18,7 @@ What would you look for?
 
 -  Virtual machine(s) license bound to MAC address
 
--  Opportunity for Xtract for VM
+-  Opportunity for Move?
 
  
 What to look for in VDI?
@@ -74,8 +74,6 @@ What would you look for?
    -  DBAs may be nervous of virtualisation
 
    -  Share our Best Practice Guides / Reference Architectures
-
-   -  Opportunity for Xtract for DBs
 
 -  Big RAM & vCPUs allocation - what's the impact to HA?
 

@@ -95,7 +95,7 @@ One area that proves popular with some teams is SharePoint while others continue
 
 .. _AHV Materials: https://docs.google.com/spreadsheets/d/15z8JqmGsr0zZBcDxubYCg6sGsay31ltVgVrSHsbMv4o/edit#gid=0
 
--  Confluence \(VPN is required)\ to the new Support Wiki  `Confluence`_.
+-  Confluence \(VPN is required)\  to the new Support Wiki  `Confluence`_.
 
 .. _Confluence: https://confluence.eng.nutanix.com:8443/pages/viewpage.action?spaceKey=SW&title=Welcome+to+the+new+Support+Wiki
 
